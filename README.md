@@ -1,3 +1,2 @@
 # Online-Store-App-with-Kotlin
-First project with kotlin and php
-#Description is Soon...
+It is a e-commerce app. I have used Kotlin, php and paypal API.
